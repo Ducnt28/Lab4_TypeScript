@@ -16,7 +16,7 @@ function App() {
         <Route path='/shop' element={<ShopPage />} />
         <Route path='/shop/:id' element={<ProductDetailPage />} />
       </Routes>
-      <Footer />
+      <Footer />ádsadsda
     </>
   )
 }
