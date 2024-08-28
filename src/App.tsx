@@ -17,6 +17,7 @@ function App() {
         <Route path='/shop/:id' element={<ProductDetailPage />} />
       </Routes>
       <Footer />ádsadsda
+      zzzzz
     </>
   )
 }
